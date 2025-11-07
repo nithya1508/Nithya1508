@@ -27,12 +27,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=nithyashreebabu&show_icons=true&theme=tokyonight)
-![](https://github-readme-streak-stats.herokuapp.com/?user=nithyashreebabu&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nithyashreebabu&layout=compact&theme=tokyonight)
-
----
 
 ### 💬 Quote
 > “Transforming data into insights that drive action.”
