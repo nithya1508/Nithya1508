@@ -5,10 +5,11 @@
 
 ### 👩‍💼 About Me
 - 🔭 Currently pursuing **MSc in Business Analytics** at **University of Leeds**
-- 💼 3+ years of experience as **Assistant Manager** (Digital Transformation, Analytics, Marketing & Finance)
+- 💼 2+ years of experience as **Assistant Manager** (Digital Transformation, Analytics, Marketing & Finance)
 - 💡 Skilled in **SQL | Python | Power BI | Excel | R | MySQL | Data Visualization**
+- Qualified **MBA** Specializing in Finace and analytics, Semi qualified Cost Accountant **CMA-intermediate**
 - 🌍 Passionate about **AI, Business Analytics, and Financial Insights**
-- ✈️ Aiming for a global career in **Finance, Data, or Strategy**
+- ✈️ Aiming for a global career in **Data,Business,Finance or Strategy**
 
 ---
 
