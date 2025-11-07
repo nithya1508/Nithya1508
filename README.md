@@ -1,4 +1,46 @@
-## Hi there 👋
+## Hi there 👋<h1 align="center">Hi 👋, I'm Nithyashree Babu</h1>
+<h3 align="center">🎓 MSc Business Analytics | 📊 Finance & Data Analytics | 💡 Ex-Federal Bank | Leeds, UK</h3>
+
+---
+
+### 👩‍💼 About Me
+- 🔭 Currently pursuing **MSc in Business Analytics** at **University of Leeds**
+- 💼 3+ years of experience as **Assistant Manager** (Digital Transformation, Analytics, Marketing & Finance)
+- 💡 Skilled in **SQL | Python | Power BI | Excel | R | MySQL | Data Visualization**
+- 🌍 Passionate about **AI, Business Analytics, and Financial Insights**
+- ✈️ Aiming for a global career in **Finance, Data, or Strategy**
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/nithyashreebabu/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
+<a href="mailto:nithyashreebabu2000@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" /></a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,r,powerbi,excel,mysql,postgres,github,azure,aws,tableau,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=nithyashreebabu&show_icons=true&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=nithyashreebabu&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nithyashreebabu&layout=compact&theme=tokyonight)
+
+---
+
+### 💬 Quote
+> “Transforming data into insights that drive action.”
+
+---
+
+⭐ *This README was built with 💙 to reflect my passion for analytics and technology.*
+
 
 <!--
 **nithya1508/Nithya1508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
